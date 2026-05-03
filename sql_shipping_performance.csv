@@ -1,0 +1,5 @@
+ship_mode,total_orders,avg_shipping_days,total_revenue,avg_discount
+Same Day,543,0.0,128363.13,0.15
+First Class,1538,2.2,351428.42,0.16
+Second Class,1945,3.2,459193.57,0.14
+Standard Class,5968,5.0,1358215.74,0.16
